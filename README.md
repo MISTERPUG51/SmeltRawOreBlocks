@@ -1,4 +1,4 @@
-# SmeltRawOres
+# SmeltRawOreBlocks
 SmeltRawOreBlocks is a datapack that lets you smelt raw ore blocks (duh).
 <br>
 <br>
